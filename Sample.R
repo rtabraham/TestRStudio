@@ -24,3 +24,5 @@ pull(data,x2)
 
 # Rename a column of a dataframe
 rename(data, newname = x3)
+
+## Ranjit added this new line in GitHub
